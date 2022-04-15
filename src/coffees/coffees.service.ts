@@ -10,7 +10,7 @@ export class CoffeesService {
       id: 1,
       name: 'Ship R',
       brand: 'Brew',
-      flavours: ['chocolate', 'vanilla'],
+      flavors: ['chocolate', 'vanilla'],
     },
   ];
 
